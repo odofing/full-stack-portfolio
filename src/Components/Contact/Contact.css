@@ -1,0 +1,9 @@
+ul {
+  display: flex;
+  margin-top: 40px;
+  font-size: 22px;
+  list-style: none;
+  padding-left: 0;
+  margin-left: -25px;
+  justify-content: space-around;
+}
