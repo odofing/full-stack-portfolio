@@ -2,9 +2,7 @@ import React from 'react'
 import { Container } from 'react-bootstrap'
 import { Row, Col } from 'react-bootstrap'
 import {
-  ImHtmlFive,
   SiNextdotjs,
-  IoLogoCss3,
   SiBootstrap,
   SiJavascript,
   GrReactjs,
