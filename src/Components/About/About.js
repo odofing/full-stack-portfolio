@@ -70,68 +70,6 @@ const About = () => {
             </div>
           </Col>
           <h3 className='text-center mt-5 mb-3 text-uppercase'>Skill set</h3>
-          {/* <div className='col-lg-12'>
-            <div className='d-flex text-center justify-content-between  mb-3 col-6 col-sm-3 col-lg-12'>
-              <button className='btn'>
-                <ImHtmlFive style={{ fontSize: '30px' }} />
-                <p>Html5</p>
-              </button>
-              <button className='btn'>
-                <IoLogoCss3 style={{ fontSize: '30px' }} />
-                <p>CSS3</p>
-              </button>
-              <button className='btn'>
-                <SiBootstrap style={{ fontSize: '30px' }} />
-                <p>Bootstrap</p>
-              </button>
-
-              <button className='btn'>
-                <SiJavascript style={{ fontSize: '30px' }} />
-                <p>JavaScript</p>
-              </button>
-              <div className='btn'>
-                <GrReactjs style={{ fontSize: '30px' }} />
-                <p>ReactJs</p>
-              </div>
-              <button className='btn'>
-                <SiRedux style={{ fontSize: '30px' }} />
-                <p>Redux</p>
-              </button>
-
-              <button className='btn'>
-                <FaNodeJs style={{ fontSize: '30px' }} />
-                <p>NodeJs</p>
-              </button>
-              <button className='btn'>
-                <SiMongodb style={{ fontSize: '30px' }} />
-                <p>MongoDB</p>
-              </button>
-              <button className='btn'>
-                <GrMysql style={{ fontSize: '30px' }} />
-                <p>MySQL</p>
-              </button>
-              <button className='btn'>
-                <SiExpress style={{ fontSize: '30px' }} />
-                <p>ExpressJS</p>
-              </button>
-              <button className='btn'>
-                <SiNextdotjs style={{ fontSize: '30px' }} />
-                <p>NextJs</p>
-              </button>
-              <button className='btn'>
-                <DiNpm style={{ fontSize: '30px' }} />
-                <p>NPM</p>
-              </button>
-              <button className='btn'>
-                <FaGit style={{ fontSize: '30px' }} />
-                <p>Git</p>
-              </button>
-              <button className='btn'>
-                <AiFillGithub style={{ fontSize: '30px' }} />
-                <p>GitHub</p>
-              </button>
-            </div>
-          </div> */}
 
           <div className='row text-center justify-content-evenly m-3'>
             <div className='col-lg-12'>
