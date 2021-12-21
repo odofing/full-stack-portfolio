@@ -9,7 +9,7 @@ import {
   SiRedux,
   FaNodeJs,
   SiMongodb,
-  GrMysql,
+  // GrMysql,
   SiExpress,
   FaGit,
   DiNpm,
@@ -43,7 +43,7 @@ const About = () => {
                 I'm a Full-Stack Web Developer using the MERN stack to build
                 amazing applications. I use ReactJS technology for the Frontend,
                 Redux for State Management, NodeJS and ExpressJS for the Backend
-                as well as MongoDB and MySQL for storing data.
+                and MongoDB for storing data.
               </p>
               <p
                 className='text-success mt-3'
@@ -69,7 +69,7 @@ const About = () => {
           </Col>
           <h3 className='text-center mt-5 mb-3 text-uppercase'>Skill set</h3>
 
-          <div className='row text-center justify-content-evenly m-3'>
+          {/* <div className='row text-center justify-content-evenly m-3'>
             <div className='col-lg-12'>
               <button className='btn'>
                 <SiHtml5 style={{ fontSize: '30px' }} /> <br />
@@ -144,7 +144,83 @@ const About = () => {
                 <p>GitHub</p>
               </button>
             </div>
-          </div>
+          </div> */}
+          <Row>
+            <Col className='d-flex  flex-wrap justify-content-between text-center'>
+              <div>
+                <SiHtml5 style={{ fontSize: '30px' }} /> <br />
+                <p>Html5</p>
+              </div>
+
+              <div>
+                <DiCss3 style={{ fontSize: '30px' }} />
+
+                <p>Css3</p>
+              </div>
+
+              <div>
+                <SiBootstrap
+                  style={{
+                    fontSize: '30px',
+                  }}
+                />
+                <p>Bootstrap</p>
+              </div>
+
+              <div>
+                <SiJavascript style={{ fontSize: '30px' }} />
+
+                <p>JavaScript</p>
+              </div>
+
+              <div>
+                <GrReactjs
+                  style={{
+                    fontSize: '30px',
+                  }}
+                />
+                <p>React</p>
+              </div>
+
+              <div>
+                <SiRedux style={{ fontSize: '30px' }} />
+                <p>Redux</p>
+              </div>
+
+              <div>
+                <FaNodeJs style={{ fontSize: '30px' }} />
+                <p>NodeJs</p>
+              </div>
+              <div>
+                <SiMongodb style={{ fontSize: '30px' }} />
+                <p>MongoDB</p>
+              </div>
+              {/* <div>
+                <GrMysql style={{ fontSize: '30px' }} />
+                <p>MySQL</p>
+              </div> */}
+              <div>
+                <SiExpress style={{ fontSize: '30px' }} />
+                <p>ExpressJS</p>
+              </div>
+              <div>
+                <SiNextdotjs style={{ fontSize: '30px' }} />
+                <p>NextJs</p>
+              </div>
+              <div>
+                <DiNpm style={{ fontSize: '30px' }} />
+                <p>NPM</p>
+              </div>
+              <div>
+                <FaGit style={{ fontSize: '30px' }} />
+                <p>Git</p>
+              </div>
+              <div>
+                <AiFillGithub style={{ fontSize: '30px' }} />
+                <p>GitHub</p>
+              </div>
+            </Col>
+          </Row>
         </Row>
       </Container>
     </>
