@@ -5,15 +5,16 @@ const projects = [
     img: './Img/market_place.png',
     source: 'https://github.com/odofing/Market_Place_MERN',
     webpage: 'https://themarketplaceapp.herokuapp.com/',
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `A MERN application that allow users to register and login with their data, add, delete, update and review products`,
   },
   {
     id: 2,
-    title: 'Porfolio Porject',
-    img: './Img/portfolio.png',
-    source: 'https://github.com/odofing/Market_Place_MERN',
-    webpage: 'https://themarketplaceapp.herokuapp.com/',
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed`,
+    title: 'Reg-Login Project',
+    img: './Img/reg-login.png',
+    source: null,
+    webpage:
+      'http://client-reg-login-project.s3-website.eu-west-2.amazonaws.com/register',
+    desc: `An AWS serverless application with register and login functionalities`,
   },
 ]
 export default projects

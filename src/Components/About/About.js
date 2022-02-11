@@ -49,14 +49,14 @@ const About = () => {
                 className='text-success mt-3'
                 style={{ lineHeight: '32px', fontSize: '20px' }}
               >
-                My long-term goal in my career is to become a proficient AWS
-                DevOps Engineer. I will be interested to solidify my knowledge
-                by obtaining the Developer and/or SysOps Administrator Associate
-                certifications as well as the DevOps Professional certification.
+                My long-term goal is to become a proficient AWS
+                DevOps Engineer. In order to achieve this, i would like to obtain the Developer and/or SysOps
+                Administrator Associate certifications as well as the DevOps
+                Professional certification.
               </p>
 
               <a
-                className='btn btn-success ml-auto mt-3'
+                className='btn btn-success ml-auto mt-3 col-6'
                 type='btn'
                 rel='noopener noreferrer'
                 target='_blank'

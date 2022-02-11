@@ -2,7 +2,7 @@ import React from 'react'
 import { FiMail } from 'react-icons/fi'
 import { SiTwitter } from 'react-icons/si'
 import { FaGithub, FaLinkedin } from 'react-icons/fa'
-import { GrInstagram } from 'react-icons/gr'
+//import { GrInstagram } from 'react-icons/gr'
 
 function Socials() {
   return (
@@ -28,7 +28,7 @@ function Socials() {
         </li>
         <li>
           <a
-            href='https://www.linkedin.com/in/odofing'
+            href=' https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'
             rel='noopener noreferrer'
             target='_blank'
           >
@@ -45,7 +45,7 @@ function Socials() {
           </a>
         </li>
 
-        <li>
+        {/* <li>
           <a
             href='https://www.instagram.com/g_odofin/'
             rel='noopener noreferrer'
@@ -53,7 +53,7 @@ function Socials() {
           >
             <GrInstagram />{' '}
           </a>
-        </li>
+        </li> */}
       </ul>
     </div>
   )
