@@ -1,6 +1,6 @@
 import React from 'react'
 import { Container } from 'react-bootstrap'
-import { Link } from 'react-router-dom'
+//import { Link } from 'react-router-dom'
 import { Row, Col } from 'react-bootstrap'
 import Socials from '../Socials'
 import Img from '../../assests/codinggreen.svg'
@@ -19,11 +19,15 @@ const Homepage = () => {
                 a full stack web developer and a cloud technology enthusiast.{' '}
               </h5>
               <Socials />
-              <Link to='/contact' type='button' className='btn btn-success'>
+              {/* <Link
+                to='/contact'
+                type='button'
+                className='btn btn-success mt-4'
+              >
                 Hire Me
-              </Link>
+              </Link> */}
               <a
-                className='btn btn-success ml-4 col-4'
+                className='btn btn-success col-4 mt-4'
                 type='btn'
                 rel='noopener noreferrer'
                 target='_blank'
