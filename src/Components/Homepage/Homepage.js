@@ -19,13 +19,19 @@ const Homepage = () => {
                 a full stack web developer and a cloud technology enthusiast.{' '}
               </h5>
               <Socials />
-              <Link
-                to='/contact'
-                type='button'
-                className='btn btn-success mt-2'
-              >
+              <Link to='/contact' type='button' className='btn btn-success'>
                 Hire Me
               </Link>
+              <a
+                className='btn btn-success ml-4 col-4'
+                type='btn'
+                rel='noopener noreferrer'
+                target='_blank'
+                href='https://res.cloudinary.com/dy6qqzift/image/upload/v1644650726/odofin_gbadamosi_12022022_i3c4ik.pdf'
+              >
+                {' '}
+                Résumé
+              </a>
             </div>
           </Col>
           <Col md={8}>

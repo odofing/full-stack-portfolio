@@ -49,10 +49,10 @@ const About = () => {
                 className='text-success mt-3'
                 style={{ lineHeight: '32px', fontSize: '20px' }}
               >
-                My long-term goal is to become a proficient AWS
-                DevOps Engineer. In order to achieve this, i would like to obtain the Developer and/or SysOps
-                Administrator Associate certifications as well as the DevOps
-                Professional certification.
+                My long-term goal is to become a proficient AWS DevOps Engineer.
+                In order to achieve this, i would like to obtain the Developer
+                and/or SysOps Administrator Associate certifications as well as
+                the DevOps Professional certification.
               </p>
 
               <a
@@ -60,7 +60,7 @@ const About = () => {
                 type='btn'
                 rel='noopener noreferrer'
                 target='_blank'
-                href='https://res.cloudinary.com/dy6qqzift/image/upload/v1616255452/odofin_gbadamosi_20032021_z5kgjy.pdf'
+                href='https://res.cloudinary.com/dy6qqzift/image/upload/v1644650726/odofin_gbadamosi_12022022_i3c4ik.pdf'
               >
                 {' '}
                 View Résumé
