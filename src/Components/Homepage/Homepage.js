@@ -27,14 +27,13 @@ const Homepage = () => {
                 Hire Me
               </Link> */}
               <a
-                className='btn btn-success col-4 mt-4'
+                className='btn btn-success col-5 mt-4'
                 type='btn'
                 rel='noopener noreferrer'
                 target='_blank'
-                href='https://res.cloudinary.com/dy6qqzift/image/upload/v1644650726/odofin_gbadamosi_12022022_i3c4ik.pdf'
+                href='https://res.cloudinary.com/dy6qqzift/image/upload/v1647010983/odofin_gbadamosi_11032022_g1qbss.pdf'
               >
-                {' '}
-                Résumé
+                View Résumé
               </a>
             </div>
           </Col>
