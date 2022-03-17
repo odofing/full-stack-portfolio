@@ -60,7 +60,7 @@ const About = () => {
                 type='btn'
                 rel='noopener noreferrer'
                 target='_blank'
-                href='https://res.cloudinary.com/dy6qqzift/image/upload/v1647010983/odofin_gbadamosi_11032022_g1qbss.pdf'
+                href='https://res.cloudinary.com/dy6qqzift/image/upload/v1647504681/odofin_gbadamosi_T15032022_vxjyk6.pdf'
               >
                 {' '}
                 View Résumé
