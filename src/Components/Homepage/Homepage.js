@@ -31,7 +31,7 @@ const Homepage = () => {
                 type='btn'
                 rel='noopener noreferrer'
                 target='_blank'
-                href='https://res.cloudinary.com/dy6qqzift/image/upload/v1648319425/ODOFIN_26032022_afem4q.pdf'
+                href='https://res.cloudinary.com/dy6qqzift/image/upload/v1648879407/ODOFIN_02042022_vru47g.pdf'
               >
                 View Résumé
               </a>
