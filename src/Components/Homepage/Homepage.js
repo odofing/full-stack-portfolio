@@ -16,7 +16,7 @@ const Homepage = () => {
               <h5>Hello,</h5>
               <h1 className='text-success font-weight-bold'>I'm Gbadamosi</h1>
               <h5 className='font-weight-bold'>
-                a full stack web developer and a cloud technology enthusiast.{' '}
+                An experienced Full Stack web developer and AWS Certified Cloud Practitioner.{' '}
               </h5>
               <Socials />
               {/* <Link
@@ -31,7 +31,7 @@ const Homepage = () => {
                 type='btn'
                 rel='noopener noreferrer'
                 target='_blank'
-                href='https://res.cloudinary.com/dy6qqzift/image/upload/v1648879407/ODOFIN_02042022_vru47g.pdf'
+                href='https://res.cloudinary.com/dy6qqzift/image/upload/v1653472586/ODOFIN_25052022_bnfbqw.pdf'
               >
                 View Résumé
               </a>

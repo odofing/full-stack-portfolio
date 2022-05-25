@@ -60,7 +60,7 @@ const About = () => {
                 type='btn'
                 rel='noopener noreferrer'
                 target='_blank'
-                href='https://res.cloudinary.com/dy6qqzift/image/upload/v1648879407/ODOFIN_02042022_vru47g.pdf'
+                href='https://res.cloudinary.com/dy6qqzift/image/upload/v1653472586/ODOFIN_25052022_bnfbqw.pdf'
               >
                 {' '}
                 View Résumé
