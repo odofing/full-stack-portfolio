@@ -11,7 +11,7 @@ const projects = [
     id: 2,
     title: 'Reg-Login Project',
     img: './Img/reg-login.png',
-    source: null,
+    source: 'https://github.com/odofing/reg-login-lambda-function',
     webpage:
       'http://client-reg-login-project.s3-website.eu-west-2.amazonaws.com/register',
     desc: `An AWS serverless application with register and login functionalities`,
